@@ -1,0 +1,14 @@
+.jumbotron {
+  background-image: url(../img/music-notes.png);
+  background-color: #eee;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  color: #5b65ec;
+  text-shadow: 5px 5px white;
+}
+
+
+#nameBox{
+  width: 30%;
+}
